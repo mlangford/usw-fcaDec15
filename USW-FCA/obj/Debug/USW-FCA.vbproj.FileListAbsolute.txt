@@ -1,0 +1,13 @@
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW_FCA.Resources.resources
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW_FCA.s1_frmNetworkLayers.resources
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW-FCA.vbproj.GenerateResource.Cache
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\bin\Debug\USW-FCA.dll
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\bin\Debug\USW-FCA.pdb
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\bin\Debug\USW-FCA.xml
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW-FCA.dll
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW-FCA.xml
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW-FCA.pdb
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW_FCA.s2_frmSupplyDetails.resources
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW_FCA.s4_frmParameters.resources
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\obj\Debug\USW_FCA.s5_frmResults.resources
+C:\Users\Mitch\Documents\GitHub\USW-FCAwork\usw-fca\USW-FCA\bin\Debug\USW-FCA.esriAddIn

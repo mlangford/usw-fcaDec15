@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>usw-fca</Name>
+  <AddInID>{52c9222a-7148-4d38-91a3-71f417ed19b1}</AddInID>
+  <Description>Simple / Enhanced 2SFCA Scores</Description>
+  <Version>2.0</Version>
+  <Image>Images\logo-pinkname2.png</Image>
+  <Author>Mitchel Langford</Author>
+  <Company>Univesity of South Wales</Company>
+  <Date>15-Nov-15</Date>
+  <Targets>
+    <Target name="Desktop" version="10.1" />
+  </Targets>
+  <AddIn language="CLR4.0" library="USW-FCA.dll" namespace="USW_FCA">
+    <ArcMap>
+      <Commands>
+        <Button id="USW_USW_FCA_uswfca" class="uswfca" message="Computes FCA scores using a unimodal model" caption="uswfca" tip="enhanced FCA scores" category="Add-In Controls" image="Images\logo-pink2small.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
